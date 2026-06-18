@@ -71,5 +71,5 @@ flowchart TD
 
 * Integrated servers into home LAN.
 * Tailscale setup and verified
-* Expandec utility server functionality
+* Expanded utility server functionality
 * Reorganizing GitHub around infrastructure and project documentation
