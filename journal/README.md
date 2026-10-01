@@ -134,6 +134,11 @@ Formalized CephFS as authoritative web-project storage and consolidated controll
 **2026-09-30 — [Synchronization Validation](2026/2026-09-30.md)**  
 Continued validating the consolidated Unison service from `svc-utility`.
 
+### October
+
+**2026-10-01 — [Homelab Documentation Refresh](2026/2026-10-01.md)**
+Validated the current Kubernetes, ingress, web, and AI service topology. Revamped repository text and mermaid diagrams around the running environment.
+
 ## Tags
 
 `ai` `apache` `arista` `automation` `ceph` `cephfs` `cilium` `databases`
