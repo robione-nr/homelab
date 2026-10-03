@@ -139,8 +139,8 @@ Continued validating the consolidated Unison service from `svc-utility`.
 **2026-10-01 — [Homelab Documentation Refresh](2026/2026-10-01.md)**
 Validated the current Kubernetes, ingress, web, and AI service topology. Revamped repository text and mermaid diagrams around the running environment.
 
-**[2026-10-02](2026/2026-10-02.md)**
-Expanded Healthboard into a sandboxed v2 longitudinal health architecture; added event, treatment, nutrition, measurement and provenance models, USDA FoodData Central, and Google Health Takeout ingestion while completing homelab web/PHP portability work.
+**2026-10-02 — [Healthboard v2 Architecture and Data Integration](2026/2026-10-02.md)**  
+Expanded Healthboard into a sandboxed longitudinal health platform. Added event, treatment, nutrition, measurement and provenance models; USDA FoodData Central and Google Health Takeout ingestion; and completed homelab web/PHP portability work.
 
 ## Tags
 
