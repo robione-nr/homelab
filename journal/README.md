@@ -16,6 +16,9 @@ Validated the current Kubernetes, ingress, web, and AI service topology. Revampe
 **2026-10-02 — [Healthboard v2 Architecture and Data Integration](2026/2026-10-02.md)**  
 Expanded Healthboard into a sandboxed longitudinal health platform. Added event, treatment, nutrition, measurement and provenance models; USDA FoodData Central and Google Health Takeout ingestion; and completed homelab web/PHP portability work.
 
+**2026-10-05 — [VPS - Homelab Datastore Routing](2026/2026-10-05.md)**
+Extended the existing Tailscale subnet route to selected homelab Kubernetes datastore endpoints. Validated direct VPS access to InfluxDB.
+
 ### September
 
 ---
