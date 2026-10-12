@@ -19,6 +19,9 @@ Expanded Healthboard into a sandboxed longitudinal health platform. Added event,
 **2026-10-05 — [VPS - Homelab Datastore Routing](2026/2026-10-05.md)**
 Extended the existing Tailscale subnet route to selected homelab Kubernetes datastore endpoints. Validated direct VPS access to InfluxDB.
 
+**2026-10-12 — [FortiGate Network Segmentation and Interface Hardening](2026/2026-10-12.md)**  
+Reconfigured the FortiGate 201E to support isolated Arris wireless connectivity, hardened unused and management interfaces, and removed obsolete FortiLink configuration. Identified an HA firmware mismatch and unresolved synchronization issues.
+
 ### September
 
 ---
