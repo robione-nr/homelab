@@ -22,6 +22,9 @@ Extended the existing Tailscale subnet route to selected homelab Kubernetes data
 **2026-10-12 — [FortiGate Network Segmentation and Interface Hardening](2026/2026-10-12.md)**  
 Reconfigured the FortiGate 201E to support isolated Arris wireless connectivity, hardened unused and management interfaces, and removed obsolete FortiLink configuration. Identified an HA firmware mismatch and unresolved synchronization issues.
 
+**2026-10-16 — [Kubernetes Documentation and Infrastructure Cleanup](2026/2026-10-16.md)**  
+Completed Kubernetes infrastructure documentation and reorganized `homelab-ops`; restored Proxmox DNS after Tailscale interference. Added ad-blocker DNS zone. Recorded Ceph/API instability and degraded `pve-03` NIC links for follow-up.
+
 ### September
 
 ---
