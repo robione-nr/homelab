@@ -25,6 +25,9 @@ Reconfigured the FortiGate 201E to support isolated Arris wireless connectivity,
 **2026-10-16 — [Kubernetes Documentation and Infrastructure Cleanup](2026/2026-10-16.md)**  
 Completed Kubernetes infrastructure documentation and reorganized `homelab-ops`; restored Proxmox DNS after Tailscale interference. Added ad-blocker DNS zone. Recorded Ceph/API instability and degraded `pve-03` NIC links for follow-up.
 
+**2026-10-17 — [Proxmox/Ceph Documentation and Audit](2026/2026-10-17.md)**  
+Audited four hosts, cleaned obsolete Ceph/host state, and committed custom configurations. Non-mirrored boot devices found.
+
 ### September
 
 ---
