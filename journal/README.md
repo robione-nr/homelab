@@ -28,6 +28,9 @@ Completed Kubernetes infrastructure documentation and reorganized `homelab-ops`;
 **2026-10-17 — [Proxmox/Ceph Documentation and Audit](2026/2026-10-17.md)**  
 Audited four hosts, cleaned obsolete Ceph/host state, and committed custom configurations. Non-mirrored boot devices found.
 
+**2026-10-18 — [VPS Infrastructure Documentation](2026/2026-10-18.md)**  
+Documented VPS system, email, web, MySQL, and utility services. Verified bidirectional GTID replication during process and potential security hardenings.
+
 ### September
 
 ---
