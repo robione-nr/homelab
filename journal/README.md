@@ -31,6 +31,9 @@ Audited four hosts, cleaned obsolete Ceph/host state, and committed custom confi
 **2026-10-18 — [VPS Infrastructure Documentation](2026/2026-10-18.md)**  
 Documented VPS system, email, web, MySQL, and utility services. Verified bidirectional GTID replication during process and potential security hardenings.
 
+**2026-10-20 — [Infrastructure Documentation and Repository Audit](2026/2026-10-20.md)**  
+Completed Kubernetes services, web, AI VM, Hermes, llama.cpp, filesystem organization, homelab email, and development VM documentation. Audited repository structure, corrected inconsistencies, validated links, and pushed changes to GitHub.
+
 ### September
 
 ---
