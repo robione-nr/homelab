@@ -6,6 +6,17 @@ Entries preserve decisions, architectural context, resulting state, and useful l
 
 ## 2026
 
+### November
+
+---
+
+**2026-11-01 — [Ceph Network Migration and Host Security](2026/2026-11-01.md)**
+Migrated Ceph to the 172.16.0.0/22 storage network, restored workloads, verified Proxmox host firewalls, and investigated continuing BlueStore latency.
+
+**2026-11-02 — [Ceph Authentication and Client Packaging](2026/2026-11-02.md)**
+Advanced Ceph AES256K authentication, rebuilt Ubuntu client packages, and completed storage, host-cleanup, and mail-security maintenance.
+
+
 ### October
 
 ---
@@ -34,7 +45,19 @@ Documented VPS system, email, web, MySQL, and utility services. Verified bidirec
 **2026-10-20 — [Infrastructure Documentation and Repository Audit](2026/2026-10-20.md)**  
 Completed Kubernetes services, web, AI VM, Hermes, llama.cpp, filesystem organization, homelab email, and development VM documentation. Audited repository structure, corrected inconsistencies, validated links, and pushed changes to GitHub.
 
+**2026-10-29 — [Administrative SSH Hardening and Security Review](2026/2026-10-29.md)**
+Standardized certificate-based SSH across Alpine and Kubernetes guests, disabled root/password access, and audited Proxmox and Ceph security.
+
+**2026-10-30 — [Kubernetes and Service Security Audit](2026/2026-10-30.md)**
+Reviewed Kubernetes authentication, RBAC, TLS, etcd, workloads, and host/mail controls; documented remaining security checks.
+
+**2026-10-31 — [Network Interface and Proxmox Firewall Hardening](2026/2026-10-31.md)**
+Restricted unused FortiGate interfaces and advanced Proxmox host firewall testing.
+
+
 ### September
+<details>
+  <summary></summary>
 
 ---
 
@@ -64,7 +87,7 @@ Formalized CephFS as authoritative web-project storage and consolidated controll
 
 **2026-09-30 — [Synchronization Validation](2026/2026-09-30.md)**  
 Continued validating the consolidated Unison service from `svc-utility`.
-
+</details>
 
 ### August
 <details>
